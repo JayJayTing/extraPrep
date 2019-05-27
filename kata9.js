@@ -1,5 +1,5 @@
 
-console.log("hello");
+
 const months = {
     '01': 'January',
     '02': 'February',
@@ -50,4 +50,3 @@ console.log(talkingCalendar("2007/11/11"));
 console.log(talkingCalendar("1987/08/24"));
 
 
-console.log("this is hello");
